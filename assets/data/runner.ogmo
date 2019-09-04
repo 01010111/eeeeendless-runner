@@ -10,7 +10,14 @@
   "levelMaxSize": {"x": 512, "y": 480},
   "levelValues": [],
   "defaultExportMode": ".json",
-  "entityTags": ["obstacles", " testing", "food", "level geometry"],
+  "entityTags": [
+    "obstacles",
+    " testing",
+    "food",
+    "level geometry",
+    " powerup",
+    "powerup"
+  ],
   "layers": [
     {
       "definition": "entity",
@@ -135,7 +142,7 @@
       "nodeLimit": 0,
       "nodeDisplay": 0,
       "nodeGhost": true,
-      "tags": ["food"],
+      "tags": ["food", " powerup"],
       "values": []
     },
     {
@@ -243,7 +250,7 @@
       "nodeLimit": 0,
       "nodeDisplay": 0,
       "nodeGhost": true,
-      "tags": ["food"],
+      "tags": ["food", " powerup"],
       "values": []
     },
     {
@@ -279,7 +286,7 @@
       "nodeLimit": 0,
       "nodeDisplay": 0,
       "nodeGhost": true,
-      "tags": ["food"],
+      "tags": ["food", " powerup"],
       "values": []
     },
     {
@@ -388,6 +395,42 @@
       "nodeDisplay": 0,
       "nodeGhost": true,
       "tags": ["obstacles"],
+      "values": []
+    },
+    {
+      "exportID": "63156912",
+      "name": "nikes",
+      "limit": -1,
+      "size": {"x": 48, "y": 24},
+      "origin": {"x": 0, "y": 0},
+      "originAnchored": true,
+      "shape": {
+        "label": "Rectangle",
+        "points": [
+          {"x": -1, "y": -1},
+          {"x": 1, "y": -1},
+          {"x": -1, "y": 1},
+          {"x": 1, "y": -1},
+          {"x": -1, "y": 1},
+          {"x": 1, "y": 1}
+        ]
+      },
+      "color": "#ffe100ff",
+      "tileX": false,
+      "tileY": false,
+      "tileSize": {"x": 16, "y": 16},
+      "resizeableX": false,
+      "resizeableY": false,
+      "rotatable": false,
+      "rotationDegrees": 360,
+      "canFlipX": false,
+      "canFlipY": false,
+      "canSetColor": false,
+      "hasNodes": false,
+      "nodeLimit": 0,
+      "nodeDisplay": 0,
+      "nodeGhost": true,
+      "tags": ["powerup"],
       "values": []
     }
   ],
