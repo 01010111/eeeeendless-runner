@@ -15,11 +15,11 @@
       "gridCellsY": 120,
       "entities": [
         {
-          "name": "nike_billboard",
+          "name": "billboard",
           "id": 14,
           "_eid": "61767866",
-          "x": 152,
-          "y": 300,
+          "x": 132,
+          "y": 280,
           "originX": 0,
           "originY": 0
         },

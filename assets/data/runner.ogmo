@@ -363,9 +363,9 @@
     },
     {
       "exportID": "61767866",
-      "name": "nike_billboard",
+      "name": "billboard",
       "limit": -1,
-      "size": {"x": 80, "y": 64},
+      "size": {"x": 112, "y": 80},
       "origin": {"x": 0, "y": 0},
       "originAnchored": true,
       "shape": {
