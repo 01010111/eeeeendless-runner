@@ -18,7 +18,7 @@
           "name": "billboard",
           "id": 14,
           "_eid": "61767866",
-          "x": 396,
+          "x": 376,
           "y": 236,
           "originX": 0,
           "originY": 0
@@ -36,7 +36,7 @@
           "name": "billboard",
           "id": 17,
           "_eid": "61767866",
-          "x": 136,
+          "x": 128,
           "y": 292,
           "originX": 0,
           "originY": 0
@@ -59,6 +59,21 @@
           "originX": 0,
           "originY": 0
         }
+      ]
+    },
+    {
+      "name": "decals",
+      "_eid": "12943024",
+      "offsetX": 0,
+      "offsetY": 0,
+      "gridCellWidth": 8,
+      "gridCellHeight": 8,
+      "gridCellsX": 64,
+      "gridCellsY": 60,
+      "decals": [
+        {"x": 432, "y": 280, "texture": "buildings2.png"},
+        {"x": 184, "y": 280, "texture": "buildings1.png"},
+        {"x": 64, "y": 280, "texture": "buildings2.png"}
       ]
     },
     {

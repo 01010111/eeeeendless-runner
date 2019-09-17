@@ -19,7 +19,7 @@
           "id": 2,
           "_eid": "63156912",
           "x": 304,
-          "y": 368,
+          "y": 372,
           "originX": 0,
           "originY": 0
         },
@@ -32,6 +32,21 @@
           "originX": 0,
           "originY": 0
         }
+      ]
+    },
+    {
+      "name": "decals",
+      "_eid": "12943024",
+      "offsetX": 0,
+      "offsetY": 0,
+      "gridCellWidth": 8,
+      "gridCellHeight": 8,
+      "gridCellsX": 64,
+      "gridCellsY": 60,
+      "decals": [
+        {"x": 240, "y": 280, "texture": "buildings2.png"},
+        {"x": 416, "y": 280, "texture": "buildings2.png"},
+        {"x": 64, "y": 280, "texture": "buildings1.png"}
       ]
     },
     {

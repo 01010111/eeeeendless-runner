@@ -54,6 +54,20 @@
       ]
     },
     {
+      "name": "decals",
+      "_eid": "12943024",
+      "offsetX": 0,
+      "offsetY": 0,
+      "gridCellWidth": 8,
+      "gridCellHeight": 8,
+      "gridCellsX": 64,
+      "gridCellsY": 60,
+      "decals": [
+        {"x": 88, "y": 280, "texture": "buildings1.png"},
+        {"x": 328, "y": 280, "texture": "buildings2.png"}
+      ]
+    },
+    {
       "name": "ref",
       "_eid": "43321505",
       "offsetX": 0,

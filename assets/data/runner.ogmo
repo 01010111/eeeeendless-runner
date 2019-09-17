@@ -28,6 +28,17 @@
       "excludedTags": []
     },
     {
+      "definition": "decal",
+      "name": "decals",
+      "gridSize": {"x": 8, "y": 8},
+      "exportID": "12943024",
+      "folder": "../../project",
+      "includeImageSequence": true,
+      "scaleable": false,
+      "rotatable": false,
+      "values": []
+    },
+    {
       "definition": "grid",
       "name": "ref",
       "gridSize": {"x": 16, "y": 16},
@@ -365,7 +376,7 @@
       "exportID": "61767866",
       "name": "billboard",
       "limit": -1,
-      "size": {"x": 112, "y": 80},
+      "size": {"x": 112, "y": 64},
       "origin": {"x": 0, "y": 0},
       "originAnchored": true,
       "shape": {
