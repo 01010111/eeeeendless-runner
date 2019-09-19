@@ -63,21 +63,6 @@
       ]
     },
     {
-      "name": "decals",
-      "_eid": "12943024",
-      "offsetX": 0,
-      "offsetY": 0,
-      "gridCellWidth": 8,
-      "gridCellHeight": 8,
-      "gridCellsX": 64,
-      "gridCellsY": 60,
-      "decals": [
-        {"x": 144, "y": 280, "texture": "buildings2.png"},
-        {"x": 288, "y": 280, "texture": "buildings1.png"},
-        {"x": 424, "y": 280, "texture": "buildings1.png"}
-      ]
-    },
-    {
       "name": "ref",
       "_eid": "43321505",
       "offsetX": 0,
@@ -3929,6 +3914,23 @@
         "1"
       ],
       "arrayMode": 0
+    },
+    {
+      "name": "decals",
+      "_eid": "12943024",
+      "offsetX": 0,
+      "offsetY": 0,
+      "gridCellWidth": 8,
+      "gridCellHeight": 8,
+      "gridCellsX": 64,
+      "gridCellsY": 60,
+      "decals": [
+        {"x": 352, "y": 376, "texture": "buildings4.png"},
+        {"x": 144, "y": 280, "texture": "buildings2.png"},
+        {"x": 288, "y": 280, "texture": "buildings1.png"},
+        {"x": 424, "y": 280, "texture": "buildings1.png"},
+        {"x": 40, "y": 280, "texture": "buildings3.png"}
+      ]
     }
   ]
 }

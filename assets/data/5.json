@@ -35,21 +35,6 @@
       ]
     },
     {
-      "name": "decals",
-      "_eid": "12943024",
-      "offsetX": 0,
-      "offsetY": 0,
-      "gridCellWidth": 8,
-      "gridCellHeight": 8,
-      "gridCellsX": 64,
-      "gridCellsY": 60,
-      "decals": [
-        {"x": 240, "y": 280, "texture": "buildings2.png"},
-        {"x": 416, "y": 280, "texture": "buildings2.png"},
-        {"x": 64, "y": 280, "texture": "buildings1.png"}
-      ]
-    },
-    {
       "name": "ref",
       "_eid": "43321505",
       "offsetX": 0,
@@ -3901,6 +3886,23 @@
         "1"
       ],
       "arrayMode": 0
+    },
+    {
+      "name": "decals",
+      "_eid": "12943024",
+      "offsetX": 0,
+      "offsetY": 0,
+      "gridCellWidth": 8,
+      "gridCellHeight": 8,
+      "gridCellsX": 64,
+      "gridCellsY": 60,
+      "decals": [
+        {"x": 464, "y": 360, "texture": "buildings4.png"},
+        {"x": 240, "y": 280, "texture": "buildings2.png"},
+        {"x": 416, "y": 280, "texture": "buildings2.png"},
+        {"x": 64, "y": 280, "texture": "buildings1.png"},
+        {"x": 152, "y": 280, "texture": "buildings3.png"}
+      ]
     }
   ]
 }

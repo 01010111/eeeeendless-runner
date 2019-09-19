@@ -55,7 +55,8 @@
       "decals": [
         {"x": 248, "y": 280, "texture": "buildings2.png"},
         {"x": 96, "y": 280, "texture": "buildings1.png"},
-        {"x": 392, "y": 280, "texture": "buildings1.png"}
+        {"x": 392, "y": 280, "texture": "buildings1.png"},
+        {"x": 464, "y": 280, "texture": "buildings4.png"}
       ]
     },
     {

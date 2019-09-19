@@ -28,6 +28,14 @@
       "excludedTags": []
     },
     {
+      "definition": "grid",
+      "name": "ref",
+      "gridSize": {"x": 16, "y": 16},
+      "exportID": "43321505",
+      "arrayMode": 0,
+      "legend": {"0": "#00000000", "1": "#000000ff"}
+    },
+    {
       "definition": "decal",
       "name": "decals",
       "gridSize": {"x": 8, "y": 8},
@@ -37,14 +45,6 @@
       "scaleable": false,
       "rotatable": false,
       "values": []
-    },
-    {
-      "definition": "grid",
-      "name": "ref",
-      "gridSize": {"x": 16, "y": 16},
-      "exportID": "43321505",
-      "arrayMode": 0,
-      "legend": {"0": "#00000000", "1": "#000000ff"}
     }
   ],
   "entities": [
